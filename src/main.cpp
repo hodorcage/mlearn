@@ -1,5 +1,5 @@
 #include <SFML/Graphics.hpp>
-
+//importante
 const int SW = 800;
 const int SH = 600;
 const sf::Color QWHITE = sf::Color(200, 200, 200);
